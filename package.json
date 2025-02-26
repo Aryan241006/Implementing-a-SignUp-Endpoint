@@ -1,0 +1,23 @@
+{
+  "name": "implementing-a-signup-endpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryan241006/Implementing-a-SignUp-Endpoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aryan241006/Implementing-a-SignUp-Endpoint/issues"
+  },
+  "homepage": "https://github.com/Aryan241006/Implementing-a-SignUp-Endpoint#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
